@@ -1,3 +1,10 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+body{
+    background: #E5E5E5;
+}
+.bg-network{
+    background: url(/images/back-network.png) top right no-repeat;
+}
